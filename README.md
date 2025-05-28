@@ -1,2 +1,2 @@
-# BriansUnityEssentials
-Brian's Unity Essentials
+# Brian's Unity Essentials
+A collection of scripts and prefabs
