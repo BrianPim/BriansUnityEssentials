@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace BriansEssentials.Extensions
 {
-    public static class TransformExtension
+    public static class TransformExtensions
     {
         public static void SetZ(this Transform transform, float z)
         {
